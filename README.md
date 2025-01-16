@@ -6,12 +6,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 
 ## Structure:
 
-- Each folder corresponds to a LeetCode problem, organized by difficulty and topic.
-- Solutions are provided in multiple programming languages where possible.
+- Each folder corresponds to a LeetCode problem, which has a pdf of the problem description and it's solution
 - Each solution includes comments and explanations to enhance understanding.
 
-Feel free to explore, learn, and contribute! 💻
 
-## Additional Details
-
-- This Repository is currently a work in progress
