@@ -10,3 +10,15 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 - Each solution includes comments and explanations to enhance understanding.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
