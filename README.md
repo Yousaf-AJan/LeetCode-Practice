@@ -21,4 +21,12 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
