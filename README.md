@@ -25,11 +25,11 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0002-add-two-numbers) |
-| [0908-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
-| [0908-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
