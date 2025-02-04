@@ -34,6 +34,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
