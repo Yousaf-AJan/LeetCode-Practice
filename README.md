@@ -25,10 +25,12 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -39,4 +41,9 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
