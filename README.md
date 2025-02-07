@@ -22,6 +22,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 | ------- |
 | [0001-two-sum](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 | [0002-add-two-numbers](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -52,4 +54,5 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
