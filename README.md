@@ -55,4 +55,9 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
