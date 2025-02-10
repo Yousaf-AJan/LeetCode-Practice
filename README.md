@@ -17,6 +17,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Math
