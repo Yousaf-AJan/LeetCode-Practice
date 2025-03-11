@@ -59,6 +59,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -66,6 +67,7 @@ This repository contains my solutions to various coding challenges on LeetCode. 
 | [0012-integer-to-roman](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Yousaf-AJan/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 ## Trie
